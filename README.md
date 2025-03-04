@@ -19,7 +19,3 @@ Takes screenshots of the screen until a QR code is detected then navigates to th
 4. Activate venv (Windows: venv\Scripts\activate)
 5. Install requirements (pip install -r requirements.txt)
 6. Run main.py (python main.py)
-
-## License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial License. See the [LICENSE](LICENSE.md) file for more details.
